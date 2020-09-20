@@ -11,7 +11,7 @@
 • <code>pip3 install -r requirements.txt</code><br>
 
 # How to start?
-• <code>python3 instagram.py <username> <wordlist> -m <mode></code><br>
+• <code>python3 instagram.py 'username' 'wordlist' -m 'mode'</code><br>
 
 ### Help
 
