@@ -1,4 +1,6 @@
-
+# Author: Mr-X-01
+# Telegram: @Mrxanon
+# https://github.com/Mr-X-01
 
 from time import time
 from requests import Session
