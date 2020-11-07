@@ -1,4 +1,6 @@
-
+# Author: Mr-X-01
+# Telegram: @Mrxanon
+# https://github.com/Mr-X-01
 
 from os import system
 from time import sleep
