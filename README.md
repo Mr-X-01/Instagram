@@ -1,5 +1,5 @@
 # Instagram
-Hi, this is a Instagram brute-forcer ,<br>
+Hi, this is a Instagram brute-forcer<br>
 # Donate
 <b>Who does not mind a penny on the development of the project:</b><br>
 <b>Bitcoin: 1LBjGEQ16jK23cVqtkFg5fm91poKVVAP5b<br>
